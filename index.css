@@ -1,0 +1,35 @@
+div#miboton {
+    font-style: italic;
+}
+footer {
+    background: #673AB7;
+    color: white;
+    margin-top: 20px;
+    padding-top: 26px;
+    padding-bottom: 38px;
+    border-radius: 8px;
+}
+nav.navbar {
+    background: #673AB7 !important;
+}
+
+nav.navbar a {
+    color: white !important;
+}
+
+footer h4 {
+    margin-top: 29px;
+}
+
+button.navbar-toggler {
+    background: white;
+}
+
+.micarta {
+    border: solid 1px #ebebeb;
+    box-sizing: border-box;
+    padding: 14px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    background: #673ab72e;
+}
